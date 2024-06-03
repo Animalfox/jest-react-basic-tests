@@ -12,3 +12,8 @@ pnpm i
 ```bash
 pnpm run dev
 ```
+
+## Test Application
+```bash
+pnpm run test
+```
